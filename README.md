@@ -107,16 +107,16 @@ marketer/
 
 ## Статус
 
-**v1.0** — готовы 2 из 6 скиллов:
+**v1.0** — готовы все 6 скиллов:
 
-| Скилл | Статус |
-|-------|--------|
-| `/marketer-revision` | ✅ v1 |
-| `/marketer-log-deal` | ✅ v1 |
-| `/marketer-audience` | 🔜 TODO — глубокая распаковка ЦА |
-| `/marketer-ladder` | 🔜 TODO — продуктовая лестница |
-| `/marketer-funnel` | 🔜 TODO — воронка под лестницу |
-| `/marketer-checkin` | 🔜 TODO — еженедельный ревью |
+| Скилл | Статус | Что делает |
+|-------|--------|------------|
+| `/marketer-revision` | ✅ v1 | Первичная ревизия проекта |
+| `/marketer-log-deal` | ✅ v1 | Запись клиента после встречи |
+| `/marketer-audience` | ✅ v1 | Глубокая распаковка ЦА (БПСВ + awareness + VoC) |
+| `/marketer-ladder` | ✅ v1 | Продуктовая лестница LM→TW→Core→PM |
+| `/marketer-funnel` | ✅ v1 | Воронка + Channel-First + bottleneck |
+| `/marketer-checkin` | ✅ v1 | Еженедельный ревью гипотез + customers |
 
 ---
 

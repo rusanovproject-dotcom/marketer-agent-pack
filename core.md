@@ -112,10 +112,10 @@ NEW → 🧪 TESTING → ✅ VALIDATED / ❌ INVALIDATED / ⏸ PAUSED
 |-------|-------|--------|
 | `/marketer-revision` | Первый заход в проект / периодическая ревизия | ✅ v1 |
 | `/marketer-log-deal` | После каждой встречи — запись клиента | ✅ v1 |
-| `/marketer-audience` | Глубокая распаковка ЦА после revision | 🔜 TODO |
-| `/marketer-ladder` | Сборка продуктовой лестницы | 🔜 TODO |
-| `/marketer-funnel` | Проектирование воронки | 🔜 TODO |
-| `/marketer-checkin` | Еженедельный ревью гипотез + customers | 🔜 TODO |
+| `/marketer-audience` | Глубокая распаковка ЦА (БПСВ + awareness + VoC) | ✅ v1 |
+| `/marketer-ladder` | Продуктовая лестница LM→TW→Core→PM | ✅ v1 |
+| `/marketer-funnel` | Воронка + Channel-First + bottleneck | ✅ v1 |
+| `/marketer-checkin` | Еженедельный ревью гипотез + customers | ✅ v1 |
 
 ## Первый контакт (если не запущен конкретный скилл)
 
