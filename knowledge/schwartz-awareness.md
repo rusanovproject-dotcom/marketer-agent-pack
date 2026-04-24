@@ -1,6 +1,6 @@
 # Schwartz — 5 уровней осознанности + Market Sophistication
 
-Eugene Schwartz, `Breakthrough Advertising` (1966). Классический фундамент, на котором стоят Хормози и Кадыров. Служебный файл — клиент не читает.
+Eugene Schwartz, `Breakthrough Advertising` (1966). Классический фундамент, на котором стоят Хормози и . Служебный файл — клиент не читает.
 
 **Главная идея:** нельзя писать один и тот же текст для холодной и горячей аудитории. Контент проектируется под уровень осознанности + уровень насыщенности рынка.
 
@@ -88,10 +88,10 @@ Schwartz ввёл второе измерение: насколько **рыно
 
 ---
 
-## Связка Schwartz + Kadyrov + Hormozi
+## Связка Schwartz + 3W-БПСВ + Hormozi
 
-| Schwartz | Кадыров | Хормози |
-|----------|---------|---------|
+| Schwartz | 4 уровня | Хормози |
+|----------|----------|---------|
 | Unaware | Indifference | — (не ЦА на этом уровне) |
 | Problem Aware | Awareness | Massive Pain (Starving Crowd) |
 | Solution Aware | Consideration | Value Equation: Dream Outcome, Likelihood |

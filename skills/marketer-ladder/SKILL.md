@@ -1,7 +1,7 @@
 ---
 name: marketer-ladder
 description: |
-  Собирает продуктовую лестницу LM → TW → Core → PM → Return Path под выбранный сегмент ЦА. Основано на матрице Кадырова + Value Equation Хормози.
+  Собирает продуктовую лестницу LM → TW → Core → PM → Return Path под выбранный сегмент ЦА. Основано на матрице  + Value Equation Хормози.
 
   КОГДА: "собери продуктовую лестницу", "нужна матрица продуктов", "придумай лид-магнит и трипваер", "мне нужна линейка под ЦА"
 
@@ -10,7 +10,7 @@ description: |
 
 # `/marketer-ladder` — Продуктовая лестница
 
-Методология — `knowledge/kadyrov-3w-bpsv.md` секция «Продуктовая матрица» + `knowledge/hormozi-offer-market.md` (Value Equation, Lead Magnet critera).
+Методология — `knowledge/audience-framework.md` секция «Продуктовая матрица» + `knowledge/hormozi-offer-market.md` (Value Equation, Lead Magnet critera).
 
 ## Пререквизит
 Должны существовать `projects/<main>/ICP.md` + `audience.md`. Если нет — сначала `/marketer-revision` и `/marketer-audience`.
@@ -23,7 +23,7 @@ description: |
 - `customers.md` секция «Что работает» — реальные паттерны покупок
 - `hypotheses.md` активные `[PRODUCT]`, `[PRICE]`, `[LM]`, `[OFFER]` гипотезы
 
-### 2. Собери 5 ступеней (по Кадырову)
+### 2. Собери 5 ступеней (по у)
 ```
 [0] Lead Magnet      — узкая проблема решена полностью (по Хормози)
 [1] Tripwire         — дешёвый вход, окупает CAC (100-990 ₽)

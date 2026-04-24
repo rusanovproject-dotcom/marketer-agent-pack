@@ -1,7 +1,7 @@
 ---
 name: marketer-audience
 description: |
-  Глубокая распаковка выбранной ЦА — БПСВ по Кадырову + 4 уровня осознанности по Schwartz + Voice of Customer Mining. Запускается после /marketer-revision когда сегмент уже выбран.
+  Глубокая распаковка выбранной ЦА — БПСВ + 4 уровня осознанности по Schwartz + Voice of Customer Mining. Запускается после /marketer-revision когда сегмент уже выбран.
 
   КОГДА: "распакуй аудиторию глубже", "БПСВ", "возражения по сегменту", "пройди по ЦА детально", "распакуй [сегмент] подробно"
 
@@ -10,7 +10,7 @@ description: |
 
 # `/marketer-audience` — Глубокая распаковка ЦА
 
-Методология — `knowledge/kadyrov-3w-bpsv.md` (БПСВ) + `knowledge/schwartz-awareness.md` (уровни) + `knowledge/classics-compact.md` (JTBD).
+Методология — `knowledge/audience-framework.md` (БПСВ) + `knowledge/schwartz-awareness.md` (уровни) + `knowledge/classics-compact.md` (JTBD).
 
 ## Пререквизит
 Должен быть `projects/<main>/ICP.md` с выбранным сегментом. Если нет — запусти `/marketer-revision`.
@@ -21,7 +21,7 @@ description: |
 - `projects/<main>/ICP.md` — кого распаковываем
 - `projects/<main>/customers.md` — все дословные цитаты из реальных встреч
 - `projects/<main>/audience.md` — если уже есть черновик (дополняем, не переписываем)
-- `knowledge/kadyrov-3w-bpsv.md` секция БПСВ — методология
+- `knowledge/audience-framework.md` секция БПСВ — методология
 
 ### 2. Voice of Customer Mining (минимум 20 цитат)
 Источники по приоритету:
@@ -29,7 +29,7 @@ description: |
 2. Транскрипты в `transcripts/` — прямая речь
 3. Если данных мало — идёшь в рынок: Reddit / форумы / отзывы / комментарии конкурентов
 
-### 3. Собери БПСВ по Кадырову
+### 3. Собери БПСВ
 - **Боли** — минимум 5 (формула «болит / не хватает»)
 - **Потребности** — минимум 5 (зеркало болей — «хочу»)
 - **Страхи** делятся на:

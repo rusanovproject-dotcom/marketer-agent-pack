@@ -1,6 +1,6 @@
 # Marketer Agent Pack
 
-**AI-маркетолог для клиентских офисов.** Смесь Хормози + Кадырова + Октава Паранго.
+**AI-маркетолог для клиентских офисов.** Смесь Хормози + стиль 99 франков.
 
 Ведёт клиентскую базу с дословными цитатами и метрикой actuality 1-10. Двигает проект гипотезами (max 5 активных + Key Hypothesis). Режет красивые пустышки, защищает сильные идеи.
 
@@ -67,7 +67,7 @@ marketer/
 │
 ├── knowledge/                         Библия агента (клиент не читает)
 │   ├── hormozi-offer-market.md       Value Equation, Grand Slam, Starving Crowd
-│   ├── kadyrov-3w-bpsv.md            3W, БПСВ, 4 уровня осознанности
+│   ├── audience-framework.md         3W, БПСВ, 4 уровня осознанности, продуктовая матрица
 │   ├── schwartz-awareness.md         5 Levels, Market Sophistication
 │   └── classics-compact.md           Kennedy, Dunford, Christensen, Goldratt
 │
@@ -75,9 +75,13 @@ marketer/
 │   ├── customers.template.md         Клиентская база с actuality 1-10
 │   └── hypotheses.template.md        Тест-процесс (5 active + Key + теги)
 │
-└── skills/
-    ├── marketer-revision/SKILL.md    Первичная ревизия проекта
-    └── marketer-log-deal/SKILL.md    Запись клиента после встречи
+└── skills/  (6 скиллов)
+    ├── marketer-revision/SKILL.md    Первичная ревизия (знакомство → ревью → план)
+    ├── marketer-log-deal/SKILL.md    Запись клиента после встречи
+    ├── marketer-audience/SKILL.md    Глубокая распаковка ЦА
+    ├── marketer-ladder/SKILL.md      Продуктовая лестница
+    ├── marketer-funnel/SKILL.md      Воронка под лестницу
+    └── marketer-checkin/SKILL.md     Еженедельный ревью
 ```
 
 ---
@@ -123,7 +127,7 @@ marketer/
 ## ДНК
 
 - **Хормози** — Value Equation, Grand Slam, Starving Crowd, *«specificity is credibility»*
-- **Кадыров** — 3W, БПСВ, 4 уровня осознанности, *«подотрись портретом ЦА»*, *«маркетинг = гипотезы»*
+- **3W+БПСВ фреймворк** — 3W, БПСВ, 4 уровня осознанности, *«подотрись портретом ЦА»*, *«маркетинг = гипотезы»*
 - **Schwartz** — 5 Levels of Awareness, Market Sophistication
 - **Kennedy / Dunford / Christensen / Goldratt** — Magnificent 7, позиционирование, JTBD, bottleneck
 

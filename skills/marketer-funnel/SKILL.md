@@ -10,7 +10,7 @@ description: |
 
 # `/marketer-funnel` — Воронка под лестницу
 
-Методология — `knowledge/classics-compact.md` (Kennedy Magnificent 7, Goldratt TOC) + `knowledge/hormozi-offer-market.md` (Core Four каналы) + `knowledge/kadyrov-3w-bpsv.md` (типы возражений).
+Методология — `knowledge/classics-compact.md` (Kennedy Magnificent 7, Goldratt TOC) + `knowledge/hormozi-offer-market.md` (Core Four каналы) + `knowledge/audience-framework.md` (типы возражений).
 
 ## Пререквизит
 `projects/<main>/product-ladder.md` + `audience.md` + `customers.md`. Если чего-то нет — запусти предыдущий скилл.
@@ -47,7 +47,7 @@ description: |
 
 Каждое касание привязано к конкретному тезису из `audience.md`.
 
-### 5. Дожим по 4 типам возражений (Кадыров)
+### 5. Дожим по 4 типам возражений 
 - Ценовые — через Value Stack
 - Ценностные — через уникальный механизм
 - Доверительные — через кейсы и соцпруф
